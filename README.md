@@ -1,18 +1,36 @@
-🚀 Gautam Kund – A sleek and modern monastery website showcasing expertise, projects, and insights. Built with a responsive design and optimized for performance, this website serves as a digital identity for professionals.
-https://gautamkund.in/
+# 🔔 Gautam Kund – Official Temple Website
 
-🔥 Features
-✔️ Elegant & Responsive UI – Works seamlessly on all devices 📱💻
-✔️ Portfolio Showcase – Highlighting skills, projects, and achievements 🎯
-✔️ Dynamic Blog Section – Sharing knowledge and experiences 📝
-✔️ SEO & Performance Optimized – Fast loading & discoverable ⚡
-✔️ Contact & Social Links – Easy ways to connect 🔗
+A modern, fully functional website for **Gautam Kund**, a revered temple destination. Designed with responsiveness and performance in mind, this site provides information about the temple, its history, rituals, and facilities—serving devotees and visitors with a seamless online experience.
 
-🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript (or mention React, Tailwind, etc., if used)
-Backend: (Mention if any, e.g., Node.js, Flask)
-Hosting: (Netlify, Vercel, GitHub Pages, etc.)
-🎯 Setup & Usage
-1️⃣ Clone this repository
-2️⃣ Open index.html (or run npm install && npm start if applicable)
-3️⃣ Customize & deploy!
+🌐 **Live Site**: [gautamkund.in](https://gautamkund.in/)
+
+---
+
+## 🔥 Features
+
+- ✅ **Responsive UI** – Optimized for mobile, tablet, and desktop  
+- ✅ **Temple Overview** – Sections on history, rituals, timings, and significance  
+- ✅ **Photo Gallery** – Visually highlights temple architecture and events  
+- ✅ **Events & Announcements** – Stay updated with temple activities  
+- ✅ **Contact & Location** – Google Maps integration and contact form  
+- ✅ **SEO & Speed Optimized** – Fast, discoverable, and user-friendly
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript  
+**Styling Framework:** Tailwind CSS *(if used)*  
+**Backend:** None / Static site *(if applicable)*  
+**Hosting:** GitHub Pages / Netlify / Vercel *(as used)*
+
+---
+
+## 🚀 Setup & Usage
+
+1️⃣ Clone this repository  
+2️⃣ Open `index.html` in your browser *(or run `npm install && npm start` if using a framework)*  
+3️⃣ Customize content as needed  
+4️⃣ Deploy using your preferred platform
+
+---
